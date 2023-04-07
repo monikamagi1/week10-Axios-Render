@@ -96,7 +96,7 @@ footer ul li {
 }
 
 footer ul li a {
-    -moz-text-decoration-line: overline;
+    text-decoration-line: overline;
     text-transform: uppercase;
     font-size: 1.5rem;
     color: #100970 ;}
